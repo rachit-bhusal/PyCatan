@@ -1,0 +1,7 @@
+# PyCatan dependencies
+# Tkinter is included with standard Python – no extra packages needed yet.
+
+# Planned future dependencies:
+# pygame>=2.5       # Alternative / enhanced rendering (under evaluation)
+# numpy>=1.26       # Board state matrix operations
+# pytest>=8.0       # Unit testing framework
