@@ -69,7 +69,3 @@ python -m pycatan.game.board        # Board generation demo
 python -m pycatan.ai.simple_ai      # AI decision demo
 python -m pycatan.game.game_manager # Game manager demo
 ```
-
-## License
-
-This project is developed for academic purposes.
